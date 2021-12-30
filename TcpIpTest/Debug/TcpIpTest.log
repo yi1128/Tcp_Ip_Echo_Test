@@ -1,0 +1,6 @@
+﻿  tcpipClientTest.cpp
+C:\Users\User\Dropbox\PC\Desktop\TcpIpTest\TcpIpTest\tcpipClientTest.cpp(11,31): warning C4081: 'newline'이(가) 있어야 하는데 ';'이(가) 있습니다.
+C:\Users\User\Dropbox\PC\Desktop\TcpIpTest\TcpIpTest\tcpipClientTest.cpp(19,12): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\User\Dropbox\PC\Desktop\TcpIpTest\TcpIpTest\tcpipClientTest.cpp(115,29): warning C4996: 'inet_addr': Use inet_pton() or InetPton() instead or define _WINSOCK_DEPRECATED_NO_WARNINGS to disable deprecated API warnings
+C:\Users\User\Dropbox\PC\Desktop\TcpIpTest\TcpIpTest\tcpipClientTest.cpp(98,7): warning C4101: 'message' :참조되지 않은 지역 변수입니다.
+  TcpIpTest.vcxproj -> C:\Users\User\Dropbox\PC\Desktop\TcpIpTest\Debug\TcpIpTest.exe
